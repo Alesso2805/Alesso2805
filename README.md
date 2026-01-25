@@ -20,35 +20,36 @@
 ## 🧰 Tech Stack (lo que uso en batalla)
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1e293b?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1e293b?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-1e293b?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-1e293b?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-1e293b?style=for-the-badge&logo=springboot&logoColor=white)
+<a href="https://docs.python.org/3/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/FastAPI-1e293b?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+<a href="https://docs.sqlalchemy.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SQLAlchemy-1e293b?style=for-the-badge&logo=sqlalchemy&logoColor=white" /></a>
+<a href="https://jwt.io/introduction" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JWT-1e293b?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /></a>
+<a href="https://learn.microsoft.com/dotnet/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/.NET-1e293b?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+<a href="https://docs.oracle.com/en/java/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+<a href="https://docs.spring.io/spring-boot/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Spring%20Boot-1e293b?style=for-the-badge&logo=springboot&logoColor=white" /></a>
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1e293b?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1e293b?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-1e293b?style=for-the-badge&logo=angular&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-1e293b?style=for-the-badge&logo=astro&logoColor=white)
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HTML5-1e293b?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CSS3-1e293b?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=white" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Next.js-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+<a href="https://angular.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Angular-1e293b?style=for-the-badge&logo=angular&logoColor=white" /></a>
+<a href="https://docs.astro.build/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Astro-1e293b?style=for-the-badge&logo=astro&logoColor=white" /></a>
 
 ### Lenguajes extra
-![C++](https://img.shields.io/badge/C%2B%2B-1e293b?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<a href="https://en.cppreference.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-1e293b?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
 
 ### DevOps / Tools
-![Docker](https://img.shields.io/badge/Docker-1e293b?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1e293b?style=for-the-badge&logo=linux&logoColor=white)
+<a href="https://docs.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docker-1e293b?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://www.kernel.org/doc/html/latest/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linux-1e293b?style=for-the-badge&logo=linux&logoColor=white" /></a>
 
 ### Bases de datos
-![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-1e293b?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=for-the-badge&logo=mongodb&logoColor=white)
+<a href="https://learn.microsoft.com/sql/sql-server/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MSSQL-1e293b?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
+<a href="https://www.mongodb.com/docs/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MongoDB-1e293b?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 
 ### Testing
-![Pytest](https://img.shields.io/badge/Pytest-1e293b?style=for-the-badge&logo=pytest&logoColor=white)
+<a href="https://docs.pytest.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pytest-1e293b?style=for-the-badge&logo=pytest&logoColor=white" /></a>
+
 
