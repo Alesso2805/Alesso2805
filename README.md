@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alessandro-david-polanco-71657421b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:alessandrodp2222@gmail.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Alesso2805"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:alessandrodp2222@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Alesso2805"  target="_blank"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
